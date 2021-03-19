@@ -4,6 +4,7 @@ print("github")
 print("sourcetree")
 
 
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,7 @@ print("sourcetree")
 
 
 
+=======
+def print_somthong():
+    print("test")
+>>>>>>> test-branch
